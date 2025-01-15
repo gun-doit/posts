@@ -1,0 +1,39 @@
+[
+  {
+    "name": "태그1",
+    "fullname":"태그1",
+    "description": "태그 더미 데이터"
+  },
+  {
+    "name":"RTOS",
+    "fullname":"Real Time Operating System",
+    "description": "실시간 응용 프로그램을 위해 개발된 운영체제"
+
+  },
+  {
+    "name":"OSEK",
+    "fullname":"Offene Systeme und deren Schnittstellen für die Elektronik in Kraftfahrzeugen",
+    "description": "차량용 임베디드 시스템을 위한 운영체제, 통신 스택 및 네트워크 관리 프로토콜을 만든 표준 기관 혹은 표준 규격"
+
+  },
+  {
+    "name":"FIFO",
+    "fullname": "First In First Out",
+    "description":"선입선출"
+  },
+  {
+    "name":"우선순위 큐",
+    "fullname": "Priority Queue",
+    "description":"먼저 들어오는 데이터가 아니라, 우선순위가 높은 데이터가 먼저 나가는 형태의 자료구조"
+  },
+  {
+    "name":"VFB",
+    "fullname": "Virtual Functional Bus",
+    "description":" 소프트웨어 컴포넌트들 간의 통신을 추상화하는 논리적인 버스"
+  },
+  {
+    "name":"SCD",
+    "fullname": "Software Component Description",
+    "description":" AUTOSAR 아키텍처에서 소프트웨어 구성 요소"
+  }
+]
