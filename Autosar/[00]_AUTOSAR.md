@@ -2,9 +2,9 @@
 AUTOmotive Open System ARchitecture(자동차 오픈 시스템 아키텍처)의 약자로, 자동차 소프트웨어 및 전자 제어 장치를 개발한 &r표준 아키텍처&r를 의미한다.
 
 ### 오토사 아키텍처 계층
-1. Application Layer
-2. Runtime Environment(RTE)
-3. Basic Software(BSW)
+1. **Application Layer**
+2. **Runtime Environment(RTE)**
+3. **Basic Software(BSW)**
 
 다중 프로세스/스레드가 지원되지 않는 임베디드 시스템상에서 구현되고 동작하기 때문에 &r하위 3개의 계층이 한꺼번에 컴파일되고 링킹&r되어 타깃에 기록된다.
 

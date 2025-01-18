@@ -1,7 +1,7 @@
 ## 큐(Queue)
 먼저 들어오는 데이터가 먼저 나가는 @FIFO
 
-```
+```cpp
 #include<queue>
 
 //선언
@@ -25,7 +25,7 @@ size()        //큐의 크기 반환
 ## 우선 순위 큐(Priority Queue)
 **우선순위**가 높은 데이터가 먼저 나가는 형태
 
-```
+```cpp
 #include<queue>
 
 //선언
